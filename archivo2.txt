@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hola amiguitos
 
+=======
+
+
+gatito feliz
+>>>>>>> ramab
