@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 hola amiguitos
-
-=======
-
-
 gatito feliz
->>>>>>> ramab
+perrito feliz
+
